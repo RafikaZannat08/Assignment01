@@ -1,0 +1,5 @@
+Zannat
+Jannat
+Jannaat
+Zannaat
+[^a-zA-Z][Zz|Jj]annaa?t[^a-zA-Z]
